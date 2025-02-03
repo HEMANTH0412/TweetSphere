@@ -1,0 +1,72 @@
+.tweet-container {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #e1e8ed;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .tweet-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .tweet-title {
+    color: #14171a;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .tweet-date {
+    color: #aab8c2;
+    font-size: 14px;
+    margin: 0;
+  }
+  
+  .tweet-content {
+    color: #657786;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .tweet-image {
+    max-width: 100%;
+    max-height: 300px;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 8px;
+  }
+  
+  .tweet-actions {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+  }
+  
+  .edit-button,
+  .delete-button {
+    background-color: #1da1f2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-left: 10px;
+  }
+  
+  .edit-button:hover {
+    background-color: #0d95e8;
+  }
+  
+  .delete-button {
+    background-color: #e0245e;
+  }
+  
+  .delete-button:hover {
+    background-color: #c21d4a;
+  }
