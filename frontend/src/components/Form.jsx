@@ -55,9 +55,13 @@ function Form({ route, method }) {
       <button className="form-button" type="submit">
         {name}
       </button>
-      {method === "register" && (
+      {method === "register" ? (
         <p>
           Already a user? <Link to="/login">Login</Link>
+        </p>
+      ) : (
+        <p>
+          If not a user, Please <Link to="/register">Register</Link>
         </p>
       )}
     </form>
