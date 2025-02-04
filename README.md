@@ -123,7 +123,7 @@ npm run test     # Run tests
 *Main interface showing tweet feed and interaction options*
 
 ### Logout Dashboard
-![Logout Dashboard](./images/Logout_Dashboard.png)
+![Register Dashboard](./images/Register_Dashboard.png)
 *Logout confirmation and session management*
 
 ## Contributing
@@ -133,10 +133,6 @@ npm run test     # Run tests
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Support
 
