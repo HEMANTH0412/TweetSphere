@@ -115,7 +115,7 @@ npm run test     # Run tests
 ## Screenshots
 
 ### Login Dashboard
-![Login Dashboard](./images/Login_Dashboard.png)
+![Login Dashboard](./images/Login/SignIn_Dashboard.png)
 *User authentication interface with secure login functionality*
 
 ### Home Dashboard
