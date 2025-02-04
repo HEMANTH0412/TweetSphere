@@ -11,19 +11,15 @@ TweetSphere is a full-stack web application built with React and Django that ena
 - **User Management**
   - Secure authentication and authorization
   - User profile creation and customization
-  - Password reset functionality
 
 - **Tweet Operations**
   - Create and publish tweets
   - Edit existing tweets
   - Delete tweets
-  - Rich text formatting support
-
+  
 - **User Interface**
   - Responsive design for mobile and desktop
-  - Dark/light mode toggle
   - Real-time updates
-  - Infinite scroll for tweet feed
 
 ## Technology Stack
 
