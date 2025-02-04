@@ -118,9 +118,9 @@ npm run test     # Run tests
 ![Home Dashboard](./images/TweetSphere_Home_Dashboard.png)
 *Main interface showing tweet feed and interaction options*
 
-### Logout Dashboard
+### Register Dashboard
 ![Register Dashboard](./images/Register_Dashboard.png)
-*Logout confirmation and session management*
+*User authentication interface with secure register functionality*
 
 ## Contributing
 
