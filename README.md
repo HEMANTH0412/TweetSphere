@@ -29,7 +29,7 @@ TweetSphere is a full-stack web application built with React and Django that ena
 
 ### Frontend
 - React.js
-- Tailwind CSS
+- CSS
 - Vite
 - Axios for API calls
 
@@ -133,10 +133,6 @@ npm run test     # Run tests
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact the development team.
 
 ## Acknowledgments
 
